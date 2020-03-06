@@ -1,0 +1,9 @@
+name: Testing Ring 0 🌊
+
+on: [push]
+
+jobs:
+  Create:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1.1.0
