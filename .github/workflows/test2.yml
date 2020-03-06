@@ -1,4 +1,4 @@
-name: Greet Everyone2
+name: Not Lab
 # This workflow is triggered on pushes to the repository.
 on: [push]
 
